@@ -7,14 +7,13 @@
     "autoClean": false,
     "commandDisabled": [],
     "eventDisabled": [],
-    "EMAIL": "",
-    "PASSWORD": "",
+    "EMAIL": "tomudenzetu@gmail.com",
+    "PASSWORD": "Yasti56&",
     "OTPKEY": "",
-    "BOTNAME": "",
+    "BOTNAME": "Zet Bot",
     "PREFIX": "!",
     "ADMINBOT": [
-        "USERID1",
-        "USERID2"
+        "100055235366707"
     ],
     "DATABASE": {
         "sqlite": {
